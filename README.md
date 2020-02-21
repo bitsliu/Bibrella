@@ -25,10 +25,15 @@ Bibrella is a collection of useful resources in binary analysis areas, including
  - **ALSR**
 
 ### Advanced defense
-  - **CFI(Control Flow Integrity)** :  [classical CFI](http://www.cs.columbia.edu/~suman/secure_sw_devel/p340-abadi.pdf), [practical binary rewriting](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_zhang.pdf), 
-  - **ROP defense**:  [Technical analysis on Microsoft's BlueHat competition](https://msrc-blog.microsoft.com/2012/07/26/technical-analysis-of-the-top-bluehat-prize-submissions/), 
+  - **CFI(Control Flow Integrity)** :  [classical CFI](http://www.cs.columbia.edu/~suman/secure_sw_devel/p340-abadi.pdf), [practical binary rewriting](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_zhang.pdf) 
+  - **ROP defense**:  [Technical analysis on Microsoft's BlueHat competition](https://msrc-blog.microsoft.com/2012/07/26/technical-analysis-of-the-top-bluehat-prize-submissions/)
   - **SFI(Software Faul Isolation)** : [NativeClient](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/34913.pdf)
   
   # Tools
   # Courses 
+  - UC Berkeley, Prof. **Vern Paxson**, [Internet/Network Security](https://www.icir.org/vern/cs261n/)
+  - Stony Brook University, Prof. **Michalis Polychronakis**, [Offsenive Security](https://www3.cs.stonybrook.edu/~mikepo/CSE590/2016/)
+  
   # Books
+  
+  # Misc.
